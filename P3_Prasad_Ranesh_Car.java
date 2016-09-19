@@ -19,6 +19,7 @@ public class P3_Prasad_Ranesh_Car
     private int myStartMiles;
     private int myEndMiles;
     private double myGallonsUsed;
+    private int gitTest;
 
     /**
      * Constructor for objects of class P3_Prasad_Ranesh_Car
